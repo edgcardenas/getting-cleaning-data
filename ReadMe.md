@@ -3,7 +3,7 @@
 Repo for course tidy data project.
 
 ### Overview
-This project demonstrates the ability to download a large data wearable sensor data set, pull specific information (mean and SD) and output a text file with the requested information
+This project demonstrates the ability to download a large data wearable sensor data set, pull specific information (mean and SD), merge the desired data, and output a text file with the requested information
 
 
 ###  Summary
